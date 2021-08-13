@@ -3,17 +3,8 @@ const express = require('express')
 const app = express()
 const port = 3000
 const questions = require('./questions.json')
-const session = require('express-session')
 
 const { Questions } = require('./models')
-
-async function databaseFill() {
-    for(let i=0; i<41; i++){
-        await Questions.create({
-            question: questions.results[i].question,
-            answer: questions.results[i].correct_answer
-        })}
-}
 
 let unique = []
 function checkUnique() {
@@ -26,12 +17,6 @@ function checkUnique() {
 
 app.set('view engine', 'ejs')
 app.use(express.urlencoded({ extended: true }))
-app.use(session({
-    secret: 'keyboard cat',
-    resave: false,
-    saveUninitialized: true,
-    cookie: { secure: true }
-  }))
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
@@ -41,10 +26,7 @@ app.get('/', (req, res) => {
     res.render('home.ejs')
   })
 
-app.get('/firstQuestion', async (req, res) => {
-
-    // use databaseFill() here if there are no questions loaded
-    
+app.get('/firstQuestion', async (req, res) => {   
     const random = Math.round(Math.random() * (42 - 1) + 1)
     req.app.locals.question1 = await Questions.findAll({where: {id: random}})
     unique.push(random)

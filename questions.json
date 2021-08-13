@@ -171,7 +171,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+            "question": "Which driver is tied with Lewis Hamilton in having been the Formula 1 world champion for a record 7 times?",
             "correct_answer": "Michael Schumacher",
             "incorrect_answers": [
                 "Ayrton Senna",
