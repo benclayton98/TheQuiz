@@ -1,5 +1,19 @@
 # TheQuiz
 
+## How to use:
+
+```js 
+npm install
+```
+fill in .env file
+```js 
+npx sequelize-cli db:create
+npx sequelize-cli db:migrate
+node src/databaseFill.js
+npx nodemon app
+```
+
+
 How I want this to look:
 
 1. User loads the loading screen and clicks to begin.

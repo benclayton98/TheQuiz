@@ -7,6 +7,14 @@ const session = require('express-session')
 
 const { Questions } = require('./models')
 
+async function databaseFill() {
+    for(let i=0; i<41; i++){
+        await Questions.create({
+            question: questions.results[i].question,
+            answer: questions.results[i].correct_answer
+        })}
+}
+
 let unique = []
 function checkUnique() {
     if (unique.includes(random)){
@@ -34,13 +42,8 @@ app.get('/', (req, res) => {
   })
 
 app.get('/firstQuestion', async (req, res) => {
-    const check = await Questions.findAll({where: {id: 1}})
-    if (check === false){
-    for(let i=0; i<41; i++){
-    await Questions.create({
-        question: questions.results[i].question,
-        answer: questions.results[i].correct_answer
-    })}}
+
+    // use databaseFill() here if there are no questions loaded
     
     const random = Math.round(Math.random() * (42 - 1) + 1)
     req.app.locals.question1 = await Questions.findAll({where: {id: random}})

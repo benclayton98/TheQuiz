@@ -273,8 +273,8 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the second-largest city in Lithuania?",
-            "correct_answer": "Kaunas",
+            "question": "What is the capital of Australia?",
+            "correct_answer": "Canberra",
             "incorrect_answers": [
                 "Panevėžys",
                 "Vilnius",
@@ -307,7 +307,7 @@
             "category": "Entertainment: Television",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Bob Ross was a US Air Force pilot.",
+            "question": "Bob Ross was a US Air Force pilot. True or False?",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -365,8 +365,8 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie Avatar?",
-            "correct_answer": "Sigourney Weaver",
+            "question": "Which actor portrayed Jordan Belfort in the Wolf of Wall Street?",
+            "correct_answer": "Leonardo Di Caprio",
             "incorrect_answers": [
                 "Jessica Chastain",
                 "Melissa Beckett",
@@ -411,8 +411,8 @@
             "category": "Entertainment: Books",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
-            "correct_answer": "INGSOC",
+            "question": "In what year did Pakistan gain independence?",
+            "correct_answer": "1947",
             "incorrect_answers": [
                 "Neo-Bolshevism",
                 "Obliteration of the Self",
@@ -458,7 +458,7 @@
             "type": "multiple",
             "difficulty": "hard",
             "question": "What was Maggie Simpsons first word?",
-            "correct_answer": "Daddy.",
+            "correct_answer": "Daddy",
             "incorrect_answers": [
                 "Sequel?",
                 "Ja!",
