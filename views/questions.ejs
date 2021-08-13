@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="questions.css">
+<link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet'>
+
+
+<h1 style="font-family: Bangers;" class="centreHeading">Question <%=number%></h1>
+<div style="font-family: Verdana;" class="centreBody">
+<% question.map(question =>{ %>
+<%= question.question %>
+<% }) %></div>
+<br><br>
+<form class="centreBody" action="/result" method="POST">
+<input type="text" name="answer" placeholder="Type Answer">
+<input class="submitButton" type="submit" value="Submit Answer"></form>

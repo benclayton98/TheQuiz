@@ -1,0 +1,481 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In what year did the Second World War finish?",
+            "correct_answer": "1945",
+            "incorrect_answers": [
+                "Precisionism",
+                "Cubism",
+                "Impressionism"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Algeria?",
+            "correct_answer": "Algeirs",
+            "incorrect_answers": [
+                "Carpenter Brut",
+                "GOST",
+                "Dan Terminus "
+            ]
+        },
+        {
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the fastest land animal?",
+            "correct_answer": "Cheetah",
+            "incorrect_answers": [
+                "Lion",
+                "Thomson&rsquo;s Gazelle",
+                "Pronghorn Antelope"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year was the Chernobyl Nuclear disaster?",
+            "correct_answer": "1986",
+            "incorrect_answers": [
+                "Demoman",
+                "Pyro",
+                "Spy"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is Englands all-time top goal scorer?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Japan",
+                "China",
+                "France"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the currency in the Animal Crossing series?",
+            "correct_answer": "Bells",
+            "incorrect_answers": [
+                "Sea Shells",
+                "Leaves",
+                "Bugs"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which language is NOT Indo-European?",
+            "correct_answer": "Hungarian",
+            "incorrect_answers": [
+                "Russian",
+                "Greek",
+                "Latvian"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "I disapprove of what you say, but I will defend to the death your right to say it - is a quote from French philosopher Voltaire. True or False?",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who was the King of Gods in Ancient Greek mythology?",
+            "correct_answer": "Zeus",
+            "incorrect_answers": [
+                "Apollo",
+                "Hermes",
+                "Poseidon"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the scientific name of the knee cap?",
+            "correct_answer": "Patella",
+            "incorrect_answers": [
+                "Femur",
+                "Foramen Magnum",
+                "Scapula"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What Nationality is D.Va from Overwatch?",
+            "correct_answer": "Korean",
+            "incorrect_answers": [
+                "Japanese",
+                "Chinese",
+                "Vietnamese "
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+            "correct_answer": "Antimony",
+            "incorrect_answers": [
+                "Bismuth",
+                "Mercury",
+                "Cobalt"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the atomic number of the element Strontium?",
+            "correct_answer": "38",
+            "incorrect_answers": [
+                "73",
+                "47",
+                "11"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which iconic character is featured in movies such as The Enforcer, Sudden Impact, and The Dead Pool?",
+            "correct_answer": "Dirty Harry",
+            "incorrect_answers": [
+                "Indiana Jones",
+                "James Bond",
+                "Harry Potter"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+            "correct_answer": "Michael Schumacher",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Fernando Alonso",
+                "Jim Clark"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Ananas is mostly used as the word for Pineapple in other languages. True of False?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "In Portal 2, Cave Johnson started out Aperture Science as a shower curtain company. True or False?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What tiny principality lies between Spain and France?",
+            "correct_answer": "Andorra",
+            "incorrect_answers": [
+                "Liechtenstein",
+                "Monaco",
+                "San Marino"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Danganronpa: Trigger Happy Havoc, what is the protagonists name?",
+            "correct_answer": "Makoto Naegi",
+            "incorrect_answers": [
+                "Hajime Hinata",
+                "Nagito Komaeda",
+                "Komaru Naegi"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many total monsters appear in Monster Hunter Generations?",
+            "correct_answer": "105",
+            "incorrect_answers": [
+                "100",
+                "98",
+                "73"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "The names of Roxass Keyblades in Kingdom Hearts are Oathkeeper and Oblivion. True or False?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
+            "correct_answer": "Glados",
+            "incorrect_answers": [
+                "Cave Johnson",
+                "Wheatley",
+                "Atlas / P-Body"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was Apple Inc. founded?",
+            "correct_answer": "1976",
+            "incorrect_answers": [
+                "1978",
+                "1980",
+                "1974"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+                "Panevėžys",
+                "Vilnius",
+                "Klaipėda"
+            ]
+        },
+        {
+            "category": "Politics",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "One of Barack Obamas United States presidential campaign slogans was Yes We Can. True or False?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is Megs full name in Family Guy?",
+            "correct_answer": "Megatron Griffin",
+            "incorrect_answers": [
+                "Who-Cares Griffin",
+                "Neil Griffin",
+                "Megan Griffin"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Bob Ross was a US Air Force pilot.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the television show Lazy Town, who is the actor of Robbie Rotten?",
+            "correct_answer": "Stefan Stefansson",
+            "incorrect_answers": [
+                "Adam Sandler",
+                "Magn&uacute;s Scheving",
+                "Stephen Carl"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which US state does water from Poland Spring water bottles come from?",
+            "correct_answer": "Maine",
+            "incorrect_answers": [
+                "Hesse, Germany",
+                "Masovia, Poland",
+                "Bavaria, Poland"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What programming language was used to create the game Minecraft?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "HTML 5",
+                "C++",
+                "Python"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Estonia?",
+            "correct_answer": "Tallinn",
+            "incorrect_answers": [
+                "Helsinki",
+                "Tartu",
+                "Riga"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie Avatar?",
+            "correct_answer": "Sigourney Weaver",
+            "incorrect_answers": [
+                "Jessica Chastain",
+                "Melissa Beckett",
+                "Alyssa Monroe "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Team Fortress 2, what is the fastest taunt kill that can be pulled off?",
+            "correct_answer": "Showdown",
+            "incorrect_answers": [
+                "Hadouken",
+                "Organ Grinder",
+                "Skewer"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Haggis is traditionally ate on Burns Night. True or False?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+            "correct_answer": "Operation Barbarossa",
+            "incorrect_answers": [
+                "Operation Kaiserschlact",
+                "Operation Unthinkable",
+                "Operation Molotov"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+            "correct_answer": "INGSOC",
+            "incorrect_answers": [
+                "Neo-Bolshevism",
+                "Obliteration of the Self",
+                "Earth Alliance"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Shang Tsung is a playable character in Mortal Kombat XL. True or False",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The longest shared border in the world can be found in which continent?",
+            "correct_answer": "North America",
+            "incorrect_answers": [
+                "Chile and Argentina",
+                "Russia and China",
+                "India and Pakistan"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+            "correct_answer": "Bull",
+            "incorrect_answers": [
+                "Pig",
+                "Ox",
+                "Horse"
+            ]
+        },
+        {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was Maggie Simpsons first word?",
+            "correct_answer": "Daddy.",
+            "incorrect_answers": [
+                "Sequel?",
+                "Ja!",
+                "Rusty!"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the forename of Harry Potters Father?",
+            "correct_answer": "James",
+            "incorrect_answers": [
+                "Hogsmeade",
+                "Ottery St. Catchpole",
+                "Little Hangleton"
+            ]
+        }
+    ]
+}

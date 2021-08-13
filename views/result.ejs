@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="questions.css">
+<link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet'>
+
+<h1 style="font-family: Bangers;" class="centreHeading">Questions</h1>
+
+<div style="font-family: Verdana;" class="centreBody"><% question.map(question =>{ %>
+<%= question.question %>
+<% }) %>
+<br><br>
+<div id="result" style="font-weight: bold;"class="<%=result%>"> <%= result %></div> <p>Correct Answer:</p><p class="answer"><%= correct%></p>
+<p><%= tally%>/<%=number%> correct</p></div>
+
+<form action="/questions" method="POST">
+<input class="resultButton" type="submit" value="Next Question"></form>
