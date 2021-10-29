@@ -9,7 +9,7 @@ const { Questions } = require('./models')
 let unique = []
 function checkUnique() {
     if (unique.includes(random)){
-    random = Math.round(Math.random() * (42 - 1) + 1)
+    random = Math.round(Math.random() * (41 - 1) + 1)
     checkUnique()
 }
     else return random;

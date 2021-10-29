@@ -1,7 +1,7 @@
 
 body{
     background: rgb(251,251,251);
-    background: radial-gradient(circle, rgba(251,251,251,1) 0%, rgba(105,166,161,1) 100%);
+    background: radial-gradient(farthest-corner at 750px 100px, rgb(196, 169, 169) 0%, rgb(119, 23, 156) 100%);
 }
 
 html, body {
